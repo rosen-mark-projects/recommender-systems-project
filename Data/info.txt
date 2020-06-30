@@ -1,0 +1,14 @@
+All ratings are contained in the file "ratings.dat" and are in the
+following format:
+
+UserID,ProfileID,Rating
+
+- UserID is user who provided rating
+- ProfileID is user who has been rated
+- UserIDs range between 1 and 135,359
+- ProfileIDs range between 1 and 220,970 (not every profile has been rated)
+- Ratings are on a 1-10 scale where 10 is best (integer ratings only)
+- Only users who provided at least 20 ratings were included
+- Users who provided constant ratings were excluded
+
+USERS FILE DESCRIPTION
