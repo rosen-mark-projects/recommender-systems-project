@@ -1,0 +1,10 @@
+node_modules
+env
+.env
+__pycache__
+.ipynb_checkpoints
+
+# static files
+Data/ratings.csv
+Data/ratings_compressed.csv
+*/model/
