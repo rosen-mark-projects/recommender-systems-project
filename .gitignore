@@ -7,4 +7,3 @@ __pycache__
 # static files
 Data/ratings.csv
 Data/ratings_compressed.csv
-*/model/
