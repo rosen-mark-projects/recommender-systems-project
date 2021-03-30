@@ -159,7 +159,7 @@ pyasn1==0.4.8
 pycodestyle==2.5.0
 pycparser==2.20
 pydocumentdb==2.3.5
-Pygments==2.6.1
+Pygments==2.7.4
 PyJWT==1.7.1
 pylint==2.2.2
 pymanopt==0.2.3
