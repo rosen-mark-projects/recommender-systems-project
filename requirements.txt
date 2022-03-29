@@ -139,7 +139,7 @@ packaging==20.4
 pandas==0.25.3
 pandocfilters==1.4.2
 papermill==0.19.1
-paramiko==2.7.1
+paramiko==2.10.1
 parso==0.7.0
 partd==1.1.0
 pathspec==0.8.0
