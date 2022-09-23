@@ -152,7 +152,7 @@ pluggy==0.13.1
 portalocker==1.7.0
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
-protobuf==3.8.0
+protobuf==3.18.3
 psutil==5.7.0
 ptyprocess==0.6.0
 pyasn1==0.4.8
